@@ -18,4 +18,5 @@ Easy to understand and well structured code
 ## Deliverables
 
 All assets/files needed to show a working version of your application that we can compile and run.
+
 Fork this repo, and then submit a pull request.
