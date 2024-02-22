@@ -1,4 +1,4 @@
-# golang-dev-test
+# Djitska's Gophers 
 
 ## Overview
 
